@@ -11,4 +11,4 @@
 - [[ISL lecture] Advanced Mobile Computing #7](https://youtu.be/JjwPRvRkkbk)
 - [[ISL lecture] Advanced Mobile Computing #8](https://youtu.be/Rbjq7tkwr6s)
 - [[ISL lecture] Advanced Mobile Computing #9](https://youtu.be/NLaJvmlcuX8)
-- [[ISL lecture] Advanced Mobile Computing #9](https://youtu.be/DtgcI5EoLE4)
+- [[ISL lecture] Advanced Mobile Computing #10](https://youtu.be/DtgcI5EoLE4)
